@@ -23,7 +23,7 @@ twitter_username: guillenvd
 github_username:  guillenvd
 
 # Build settings
-repository: guillenvd/AngularCourse
+repository: guillenvd/guillenvd.github.io
 markdown: kramdown
 theme: minima
 plugins:
